@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 # My Data-Analyst Portfolio!
 
 
-![image](https://github.com/Khurapaati/Data-Analyst/assets/46518814/5c54c55f-0a3f-40ea-bda1-cab7b59240b7)
+![image](https://github.com/Khurapaati/Khurapaati/assets/46518814/a2e33b8a-5ffd-4abc-b222-230c5627df6c)
+
 
 
 <h1 align="center">Hi 👋, I'm Himanshu Kushwaha</h1>
